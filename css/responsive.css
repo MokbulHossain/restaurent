@@ -1,0 +1,18 @@
+@media screen and (max-width:640px){
+    .logo img{
+        height: 40px;
+    width: 80px;
+    margin-bottom: 100px;
+    margin-right: 20px;
+    }
+    #followus {
+    margin-left: -30px;
+        width: 330px;
+}
+   #sliderpart {
+    margin-top: -50px;
+       
+      
+}
+
+}
